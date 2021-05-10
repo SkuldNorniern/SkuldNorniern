@@ -1,5 +1,6 @@
 ### WebPage Status of https://skuldnorniern.netlify.app/ ![Netlify Status](https://api.netlify.com/api/v1/badges/35d36650-af62-4831-8a29-92ae12631df2/deploy-status)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.sncouncil.com&count_bg=%2379C83D&title_bg=%23555555&icon=razer.svg&icon_color=%2346FF09&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### Currently studying from Kookmin Uni
 
 ![SkuldNorniern's github stats](https://github-readme-stats.vercel.app/api?username=SkuldNorniern&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkuldNorniern&langs_count=10&layout=compact) 
