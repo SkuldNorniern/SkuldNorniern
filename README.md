@@ -4,8 +4,8 @@
 
 ![SkuldNorniern's github stats](https://github-readme-stats.vercel.app/api?username=SkuldNorniern&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkuldNorniern&langs_count=10&layout=compact) 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enginekevin)](https://solved.ac/enginekevin)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=enginekevin)](https://solved.ac/enginekevin)-->
 
 <p align="center" align="right">
   Stacks That used at least once
