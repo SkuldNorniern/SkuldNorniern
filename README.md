@@ -17,8 +17,9 @@
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
 </p>
-  
+  	
 <p align="center" align="right">
   Using for Designing
 </p>
@@ -28,3 +29,11 @@
   <img alt="Affinity Designer" src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?&style=for-the-badge&logo=affinity-designer&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
+  
+<!--<p align="center" align="right">
+  Other Tools
+</p>
+
+<p align="center" align="right">
+
+</p>-->
