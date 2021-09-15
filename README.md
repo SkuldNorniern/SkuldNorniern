@@ -1,6 +1,8 @@
-### WebPage Status of https://skuldnorniern.netlify.app/ ![Netlify Status](https://api.netlify.com/api/v1/badges/35d36650-af62-4831-8a29-92ae12631df2/deploy-status)
+
 <p align="center" align="right">
    Currently studying from Kookmin Uni
+   
+   WebPage Status of https://skuldnorniern.netlify.app/ ![Netlify Status](https://api.netlify.com/api/v1/badges/35d36650-af62-4831-8a29-92ae12631df2/deploy-status)
 <p/>
 <p align="center" align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
