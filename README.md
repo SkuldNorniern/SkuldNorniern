@@ -15,7 +15,7 @@
 <p/>
 <p align="center" align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkuldNorniern&langs_count=10&layout=compact&theme=cobalt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkuldNorniern&langs_count=8&layout=compact&theme=cobalt" />
   </a>
 <p/>
 <!--[![Solved.ac
