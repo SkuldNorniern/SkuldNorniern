@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center" style="font-size: 2.5em; color: #6667ab;">Eira Norniern</h1>
+<h1 align="center" style="font-size: 2.5em; color: #6667ab;">Eira</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6667AB&center=true&vCenter=true&multiline=true&width=1100&height=60&lines=Welcome+to+my+GitHub!;Building+beautiful+code+and+art;Always+learning+something+new" alt="Typing SVG" />
