@@ -10,12 +10,12 @@
 <p/>
 <p align="center" align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkuldNorniern&show_icons=true&theme=cobalt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkuldNorniern&show_icons=true&title_color=6667ab&text_color=101820&icon_color=6667ab&bg_color=45,f4f7ff,edbedc&hide_border=true&border_radius=12" />
   </a>
 <p/>
 <p align="center" align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkuldNorniern&langs_count=8&layout=compact&theme=cobalt" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkuldNorniern&langs_count=8&layout=compact&&show_icons=true&title_color=6667ab&text_color=101820&icon_color=6667ab&bg_color=45,f4f7ff,edbedc&hide_border=true&border_radius=12" />
   </a>
 <p/>
 <!--[![Solved.ac
