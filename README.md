@@ -10,8 +10,7 @@
 <div align="center">
   <b>Currently at</b> Kookmin University</a> &nbsp;|&nbsp;
   <b>Website:</b> <a href="https://nornity.com/">nornity.com</a>
-  <br>
-  <img src="https://api.netlify.com/api/v1/badges/35d36650-af62-4831-8a29-92ae12631df2/deploy-status" alt="Netlify Deploy Status" />
+
 </div>
 
 ---
