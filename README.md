@@ -7,14 +7,6 @@
 
 ---
 
-<div align="center">
-  <b>Currently at</b> Kookmin University</a> &nbsp;|&nbsp;
-  <b>Website:</b> <a href="https://nornity.com/">nornity.com</a>
-
-</div>
-
----
-
 <!-- GitHub Stats -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
